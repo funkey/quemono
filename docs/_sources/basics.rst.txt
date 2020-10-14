@@ -1,7 +1,7 @@
 .. _sec_basics:
 
-Setup
-=====
+Basics
+======
 
 Where you learn about variables, if-statements, and loops.
 
