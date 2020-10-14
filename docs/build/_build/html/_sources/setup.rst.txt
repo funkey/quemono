@@ -35,7 +35,7 @@ more than to print "¡Hola Mono!".
     Hint: By default, ``pycharm`` will already create a small sample program
     for you in your new project. Feel free to delete the lines in this program,
     we don't need them. What we want to do is to simply "print" the message
-    "¡Hola Mono!. In ``python``, this is done with a command of the same name.
+    "¡Hola Mono!". In ``python``, this is done with a command of the same name.
     See if you can figure out how to do it! Once you are ready, click on the
     green triangle on the top of the screen, this will run your program. You
     see the output of your program (and possibly error messages) at the bottom.
